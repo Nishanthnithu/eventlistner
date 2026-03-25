@@ -4,7 +4,7 @@ let x=0
 let y=0
 box.addEventListener("click",event=>{
     event.target.style.backgroundColor = "gray"
-    event.target.textContent="Have a  nie day 🤣🤣"
+    event.target.textContent="Have a  nice day 🤣🤣"
 })
 box.addEventListener("mouseover",event=>{
     event.target.style.backgroundColor = "red"
